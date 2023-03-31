@@ -90,3 +90,5 @@
 > 2，经常用`--help`查看官方文档
 > 
 > 3，查看当前状态的命令很重要，如：`git status` , ` git branch`, `pwd` , ` ls` , ` tree`
+
+![](C:\Users\ryin\AppData\Roaming\marktext\images\2023-03-31-11-20-23-image.png)
